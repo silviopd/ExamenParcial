@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenParcial</string>
+
+    <string-array name="menu">
+        <item>Editar</item>
+        <item>Eliminar</item>
+        <item>Ver en el mapa</item>
+    </string-array>
+
+</resources>
